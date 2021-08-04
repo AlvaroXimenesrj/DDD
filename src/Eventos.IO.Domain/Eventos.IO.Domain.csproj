@@ -7,7 +7,7 @@
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="6.4.0-rc3" />
     <PackageReference Include="System.Security.Claims" Version="4.3.0" />
-    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.0" />
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
   </ItemGroup>
 
   <ItemGroup>
